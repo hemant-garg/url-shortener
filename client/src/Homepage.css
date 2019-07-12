@@ -182,6 +182,10 @@ footer {
     padding-left: 3rem;
     overflow: scroll;
   }
+  footer {
+    position: static;
+    margin-top: 3rem 0;
+  }
 }
 @media screen and (max-width: 430px) {
   h1 {
